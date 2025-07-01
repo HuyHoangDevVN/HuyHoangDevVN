@@ -40,11 +40,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuyHoangFSDev&show_icons=true&hide=prs&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuyHoangFSDev&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HuyHoangDevVN&show_icons=true&hide=prs&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuyHoangDevVN&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuyHoangFSDev&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuyHoangDevVN&theme=react-dark" width="100%"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HuyHoangFSDev&theme=radical&margin-w=15&no-bg=true" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HuyHoangDevVN&theme=radical&margin-w=15&no-bg=true" alt="Trophies"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@
   <a href="https://www.facebook.com/huyhoang.nguyenthe.90" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
   </a>
-  <a href="https://github.com/HuyHoangFSDev" target="_blank">
+  <a href="https://github.com/HuyHoangDevVN" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
   <a href="mailto:nguyenthehuyhoang2002@gmail.com">
@@ -85,5 +85,5 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/antonkomarev/github-profile-views-counter/master/svg/profile/badge.svg" alt="Profile Views"/>
-  <img src="https://komarev.com/ghpvc/?username=HuyHoangFSDev&color=blueviolet" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=HuyHoangDevVN&color=blueviolet" alt="Profile Views Counter"/>
 </p>
