@@ -1,67 +1,89 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/HuyHoangFSDev/HuyHoangFSDev/main/bugs.gif" align="center" style="width: 100%" />
-</div>  
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+  <img src="https://raw.githubusercontent.com/HuyHoangFSDev/HuyHoangFSDev/main/bugs.gif" align="center" style="width: 100%" />
+</div>
 
 <br>
 
-  <div align="center">
+<h1 align="center">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"/>
+  Hi, I'm Huy Hoang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" alt="wave"/>
+</h1>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+full+stack+developer)](https://github.com/huyhoangfsdev)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+full+stack+developer;Never+stop+learning!;Code+is+my+passion!&center=true&width=500&height=45" alt="Typing SVG" />
+</p>
 
- </div>  
- <div align="center">
-   
-- My name is Nguyen The Huy Hoang
-   
-- 🏫I am studying at DaiNam University
+<p align="center">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250"/>
+</p>
 
+---
+
+## 🙋‍♂️ About Me
+
+- 👨‍💻 My name is **Nguyen The Huy Hoang**
+- 🏫 I am studying at **DaiNam University**
 - 🌱 I’m currently learning **TypeScript and NextJS**
+- 💬 Ask me about **React, Next.js, Flutter**
+- 📫 How to reach me: **nguyenthehuyhoang2002@gmail.com**
 
-- 💬 Ask me about **react, next, flutter**
+---
 
-- 📫 How to reach me **nguyenthehuyhoang2002@gmail.com**
- </div>
+## 🚀 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nodejs,nextjs,java,dotnet,mongodb,mysql,redis&perline=6" alt="My Skills" />
+</p>
 
-<br><br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## 📈 GitHub Stats
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HuyHoangFSDev&show_icons=true&hide=prs&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuyHoangFSDev&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuyHoangFSDev&theme=react-dark" width="100%"/>
+</p>
 
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HuyHoangFSDev&theme=radical&margin-w=15&no-bg=true" alt="Trophies"/>
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.facebook.com/huyhoang.nguyenthe.90" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+  </a>
+  <a href="https://github.com/HuyHoangFSDev" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <a href="mailto:nguyenthehuyhoang2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nodejs,nextjs,java,dotnet,mongodb,mysql,redis&perline=6)]()
-
-</br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </div>
-    
 
------
+---
 
-
-
-
-## Connect with me📱  
-  
-
-<a href="https://www.facebook.com/huyhoang.nguyenthe.90" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/HuyHoangFSDev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<a href="mailto:nguyenthehuyhoang2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<br/>  
-
- </br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/antonkomarev/github-profile-views-counter/master/svg/profile/badge.svg" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=HuyHoangFSDev&color=blueviolet" alt="Profile Views Counter"/>
+</p>
