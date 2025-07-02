@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HuyHoangFSDev/HuyHoangFSDev/main/bugs.gif" align="center" style="width: 100%" />
+  <img src="https://raw.githubusercontent.com/HuyHoangDevVN/HuyHoangDevVN/main/bugs.gif" align="center" style="width: 100%" />
 </div>
 
 <br>
