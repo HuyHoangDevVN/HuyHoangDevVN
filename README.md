@@ -24,7 +24,7 @@
 - 👨‍💻 My name is **Nguyen The Huy Hoang**
 - 🏫 I am studying at **DaiNam University**
 - 🌱 I’m currently learning **NestJS**
-- 💬 Ask me about **React, Next.js, Flutter, .NET**
+- 💬 Ask me about **React, Next.js, Flutter, .NET, express**
 - 📫 How to reach me: **nguyenthehuyhoang2002@gmail.com**
 
 ---
