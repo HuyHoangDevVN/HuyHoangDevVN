@@ -23,8 +23,8 @@
 
 - 👨‍💻 My name is **Nguyen The Huy Hoang**
 - 🏫 I am studying at **DaiNam University**
-- 🌱 I’m currently learning **TypeScript and NextJS**
-- 💬 Ask me about **React, Next.js, Flutter**
+- 🌱 I’m currently learning **NestJS**
+- 💬 Ask me about **React, Next.js, Flutter, .NET**
 - 📫 How to reach me: **nguyenthehuyhoang2002@gmail.com**
 
 ---
