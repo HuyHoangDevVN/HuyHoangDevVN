@@ -22,7 +22,7 @@
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 My name is **Nguyen The Huy Hoang**
-- 🏫 I am studying at **DaiNam University**
+- 🏫 I am currently a lecturer at **DaiNam University**
 - 🌱 I’m currently learning **NestJS**
 - 💬 Ask me about **React, Next.js, Flutter, .NET, express**
 - 📫 How to reach me: **nguyenthehuyhoang2002@gmail.com**
@@ -87,3 +87,4 @@
   <img src="https://raw.githubusercontent.com/antonkomarev/github-profile-views-counter/master/svg/profile/badge.svg" alt="Profile Views"/>
   <img src="https://komarev.com/ghpvc/?username=HuyHoangDevVN&color=blueviolet" alt="Profile Views Counter"/>
 </p>
+
